@@ -1,9 +1,9 @@
-# Rust *wgpu* Graphics Programming: Step-By-Step (6) 
-## Create a Colorful Square Using GUP buffer
+# Rust *wgpu* Graphics Programming: Step-By-Step (8) 
+## Animate a 3D Cube
 
 This is the source code for sixth video of the YouTube series on step-by-step Rust *wgpu* graphics programming.
 
-This sample *wgpu* app creates a colorful square using GPU buffer. The output from this app is shown in the following image.
+This sample *wgpu* app shows how to animate a 3D cube. The output from this app is shown in the following image.
 
 ![wgpu05](src/images/image01.png)
 
