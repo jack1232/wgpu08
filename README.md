@@ -1,7 +1,7 @@
 # Rust *wgpu* Graphics Programming: Step-By-Step (8) 
 ## Animate a 3D Cube
 
-This is the source code for sixth video of the YouTube series on step-by-step Rust *wgpu* graphics programming.
+This is the source code for 8th video of the YouTube series on step-by-step Rust *wgpu* graphics programming.
 
 This sample *wgpu* app shows how to animate a 3D cube. The output from this app is shown in the following image.
 
